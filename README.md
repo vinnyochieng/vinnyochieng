@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Pycharm
-- 📫 How to reach me +25411464768
+- 📫 How to reach me +254728641140
 
 <!---
 vinnyochieng/vinnyochieng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
