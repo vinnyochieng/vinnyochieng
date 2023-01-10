@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vinnyochieng
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Pycharm
+- 🌱 I’m currently using Python
 - 📫 How to reach me +254728641140
 
 <!---
