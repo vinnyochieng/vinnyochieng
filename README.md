@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinnyochieng
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Networking & Cyber Security
 - 🌱 I’m currently using Python
 - 📫 How to reach me +254728641140
 
